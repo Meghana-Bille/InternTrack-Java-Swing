@@ -1,0 +1,3 @@
+INTERNSHIP|Google|Software Engineering Intern|Bangalore|Hybrid|28-09-2026|Applied|Applied through InternTrack.|3|30000.0
+FULLTIME|TCS|Software Developer|Bangalore|On-site|28-09-2026|Applied|Applied through InternTrack.|6.5|Permanent
+FULLTIME|Wipro|Python Developer|Hyderabad|Hybrid|28-09-2026|Applied|Applied through InternTrack.|5.8|Permanent
